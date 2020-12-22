@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "uramod:blocks/triticale_stage_3"
+  }
+}

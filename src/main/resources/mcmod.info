@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uramod",
+  "name": "Ura Mod",
+  "description": "",
+  "version": "${2.0}",
+  "mcversion": "${1.7}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RJRP"],
+  "credits": "Birdo770, LavaPower",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,95 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 07/05/20 20:27
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at fr.mod.Ura_Mod.Ura_ModCommon.UraFurnace.randomDisplayTick(UraFurnace.java:161)
+	at net.minecraft.client.multiplayer.WorldClient.doVoidFogParticles(WorldClient.java:344)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:2139)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1039)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:962)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at fr.mod.Ura_Mod.Ura_ModCommon.UraFurnace.randomDisplayTick(UraFurnace.java:161)
+	at net.minecraft.client.multiplayer.WorldClient.doVoidFogParticles(WorldClient.java:344)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player796'/361, l='MpServer', x=224,38, y=87,62, z=221,92]]
+	Chunk stats: MultiplayerChunkCache: 169, 169
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (176,64,256), Chunk: (at 0,4,0 in 11,16; contains blocks 176,0,256 to 191,255,271), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 307106 game time, 4178 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 49 total; [EntityChicken['Poule'/256, l='MpServer', x=284,44, y=72,00, z=154,56], EntityChicken['Poule'/258, l='MpServer', x=279,53, y=76,00, z=206,31], EntityItem['item.item.egg'/259, l='MpServer', x=279,06, y=77,13, z=209,41], EntityChicken['Poule'/260, l='MpServer', x=279,41, y=75,00, z=243,66], EntityChicken['Poule'/132, l='MpServer', x=159,38, y=67,00, z=150,53], EntityChicken['Poule'/134, l='MpServer', x=156,57, y=67,26, z=171,72], EntityChicken['Poule'/135, l='MpServer', x=153,78, y=67,00, z=171,03], EntityBat['Chauve-souris'/138, l='MpServer', x=145,34, y=54,10, z=279,63], EntityChicken['Poule'/276, l='MpServer', x=300,37, y=69,27, z=203,68], EntityPig['Cochon'/277, l='MpServer', x=296,03, y=67,00, z=255,97], EntityChicken['Poule'/152, l='MpServer', x=172,44, y=64,00, z=180,95], EntityItem['item.item.egg'/153, l='MpServer', x=173,88, y=74,13, z=205,25], EntityChicken['Poule'/154, l='MpServer', x=168,56, y=73,00, z=192,47], EntityChicken['Poule'/155, l='MpServer', x=163,50, y=95,00, z=231,50], EntityChicken['Poule'/160, l='MpServer', x=173,99, y=69,00, z=161,86], EntityBat['Chauve-souris'/161, l='MpServer', x=183,28, y=41,10, z=187,25], EntityItem['item.item.egg'/162, l='MpServer', x=191,75, y=79,13, z=203,19], EntityChicken['Poule'/163, l='MpServer', x=185,94, y=80,00, z=198,04], EntityChicken['Poule'/164, l='MpServer', x=183,56, y=79,00, z=248,53], EntityItem['item.item.egg'/165, l='MpServer', x=191,53, y=86,13, z=240,56], EntityChicken['Poule'/171, l='MpServer', x=192,47, y=69,00, z=166,47], EntityChicken['Poule'/172, l='MpServer', x=203,47, y=73,00, z=168,41], EntityChicken['Poule'/173, l='MpServer', x=194,47, y=69,00, z=172,66], EntityChicken['Poule'/174, l='MpServer', x=200,56, y=74,00, z=191,59], EntityPig['Cochon'/175, l='MpServer', x=196,19, y=84,00, z=205,81], EntityChicken['Poule'/176, l='MpServer', x=201,53, y=79,00, z=266,28], EntityBat['Chauve-souris'/177, l='MpServer', x=204,25, y=21,10, z=296,75], EntityChicken['Poule'/186, l='MpServer', x=212,56, y=73,00, z=173,41], EntityChicken['Poule'/187, l='MpServer', x=209,47, y=83,00, z=203,47], EntityBat['Chauve-souris'/188, l='MpServer', x=209,75, y=21,10, z=292,38], EntityChicken['Poule'/211, l='MpServer', x=228,50, y=82,00, z=146,50], EntityPig['Cochon'/212, l='MpServer', x=224,85, y=80,47, z=187,62], EntityBat['Chauve-souris'/222, l='MpServer', x=249,31, y=18,10, z=188,75], EntityChicken['Poule'/223, l='MpServer', x=250,89, y=77,20, z=200,80], EntityChicken['Poule'/224, l='MpServer', x=245,53, y=76,00, z=196,59], EntityPig['Cochon'/225, l='MpServer', x=252,16, y=81,00, z=237,75], EntityChicken['Poule'/226, l='MpServer', x=245,50, y=75,00, z=262,50], EntityChicken['Poule'/227, l='MpServer', x=249,47, y=62,42, z=294,22], EntityChicken['Poule'/229, l='MpServer', x=255,63, y=64,00, z=291,47], EntityClientPlayerMP['Player796'/361, l='MpServer', x=224,38, y=87,62, z=221,92], EntityChicken['Poule'/237, l='MpServer', x=256,44, y=78,00, z=187,56], EntityItem['item.item.egg'/238, l='MpServer', x=256,31, y=78,13, z=189,47], EntityChicken['Poule'/239, l='MpServer', x=266,38, y=67,00, z=254,59], EntityItem['item.item.egg'/240, l='MpServer', x=265,22, y=67,13, z=254,03], EntityChicken['Poule'/241, l='MpServer', x=269,47, y=78,00, z=281,31], EntityChicken['Poule'/242, l='MpServer', x=268,47, y=75,00, z=273,41], EntityItem['item.item.egg'/243, l='MpServer', x=269,72, y=74,13, z=277,25], EntityChicken['Poule'/254, l='MpServer', x=280,47, y=78,00, z=144,53], EntityChicken['Poule'/255, l='MpServer', x=276,44, y=77,00, z=155,69]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:415)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2566)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_251, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 190032224 bytes (181 MB) / 469237760 bytes (447 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 0 total; 
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1558 4 mods loaded, 4 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1558} [Minecraft Forge] (forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJAAAA	uramod{1.0.0} [Ura Mod] (Ura_Mod-1.3.jar) 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13399 Compatibility Profile Context 15.201.1151.1008' Renderer: 'AMD Radeon HD 6800 Series'
+	Launched Version: 1.7.10
+	LWJGL: 2.9.1
+	OpenGL: AMD Radeon HD 6800 Series GL version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: Français (France)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)

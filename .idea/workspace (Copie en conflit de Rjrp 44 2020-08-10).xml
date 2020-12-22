@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec2a8ca2-55ba-46a6-8556-9adf1b849b1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="ide" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="upload" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ura_Mod" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWyjBsN2fQpxFpNLjLSTMOeEX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="fr.mod.Ura_Mod.items.backpack" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.mod.Ura_Mod.Ura_ModCommon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\romai\Dropbox\UraCraft Developpement\Mod\Ura_Mod\Ura_Mod\src\main\java\fr\mod\Ura_Mod" />
+      <recent name="C:\Users\romai\Dropbox\UraCraft Developpement\Mod\Ura_Mod\Ura_Mod\src\main\resources\assets\uramod\textures\gui\container" />
+      <recent name="C:\Users\Dylan\Desktop\Ura_Mod\src\main\java\fr\mod\Ura_Mod\Ura_ModCommon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.mod.Ura_Mod.iriduim_smithing_table" />
+      <recent name="fr.mod.Ura_Mod.UraChest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\romai\Dropbox\UraCraft Developpement\Mod\Ura_Mod\Ura_Mod\src\main\resources\assets\uramod\textures\blocks" />
+      <recent name="C:\Users\Dylan\Desktop\Ura_Mod\src\main\java\fr\mod\Ura_Mod\Ura_ModCommon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Ura_Mod [runClient]">
+    <configuration name="Minecraft Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <module name="Ura_Mod" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Ura_Mod\eclipse" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Ura_Mod\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Ura_Mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration name="Minecraft Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <module name="Ura_Mod" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Ura_Mod\eclipse" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Ura_Mod\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Ura_Mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration name="Ura_Mod [buildEnvironment]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildEnvironment" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ura_Mod [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ura_Mod [help]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="help" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ura_Mod [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ura_Mod [setupDecompWorkspace]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="setupDecompWorkspace" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../1.7.10.jar" />
+      <option name="PROGRAM_PARAMETERS" value="java -Xmx1024M -Xms1024M -jar spigot.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Dylan\Desktop\Ura_Mod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Ura_Mod [runClient]" />
+        <item itemvalue="Gradle.Ura_Mod [dependencies]" />
+        <item itemvalue="Gradle.Ura_Mod [setupDecompWorkspace]" />
+        <item itemvalue="Gradle.Ura_Mod [help]" />
+        <item itemvalue="Gradle.Ura_Mod [buildEnvironment]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec2a8ca2-55ba-46a6-8556-9adf1b849b1b" name="Default Changelist" comment="" />
+      <created>1577535626111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577535626111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588964781448">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1588964781448" />
+    <state x="445" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1596885286452">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1596885286452" />
+    <state x="421" y="386" width="440" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596445633438">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="421" y="386" width="440" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.984@0.0.1280.984" timestamp="1596445633438" />
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596442401429">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1596442401429" />
+    <state x="2310" y="454" width="424" height="479" key="FileChooserDialogImpl" timestamp="1597051657004">
+      <screen x="1680" y="183" width="1920" height="1080" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1596396888978" />
+    <state x="2310" y="454" width="424" height="479" key="FileChooserDialogImpl/1680.183.1920.1080/0.0.1680.1050@1680.183.1920.1080" timestamp="1597051657004" />
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1597048955957">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1597048955957" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1597048955956">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1597048955956" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1597048955956">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1597048955956" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1597048955957">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1597048955957" />
+    <state width="1237" height="265" key="GridCell.Tab.1.bottom" timestamp="1596654669334">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1596654669334" />
+    <state width="1237" height="265" key="GridCell.Tab.1.center" timestamp="1596654669333">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1596654669333" />
+    <state width="1237" height="265" key="GridCell.Tab.1.left" timestamp="1596654669333">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1596654669333" />
+    <state width="1237" height="265" key="GridCell.Tab.1.right" timestamp="1596654669333">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="265" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1596654669333" />
+    <state x="1892" y="333" key="SettingsEditor" timestamp="1597051980629">
+      <screen x="1680" y="183" width="1920" height="1080" />
+    </state>
+    <state x="141" y="133" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595675586852" />
+    <state x="1892" y="333" key="SettingsEditor/1680.183.1920.1080/0.0.1680.1050@1680.183.1920.1080" timestamp="1597051980629" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1596542818950">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.984@0.0.1280.984" timestamp="1596542818950" />
+    <state x="347" y="91" width="585" height="801" key="find.popup" timestamp="1588876571997">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="347" y="91" width="585" height="801" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1588876571997" />
+    <state x="22" y="153" key="new project wizard" timestamp="1592504267265">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="22" y="153" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1592504267265" />
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup" timestamp="1595056715225">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" width="672" height="677" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1595056715225" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1596904671348">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1596904671348" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fr/mod/Ura_Mod/Ura_ModCommon/Ura_ModMain.java</url>
+          <line>679</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
