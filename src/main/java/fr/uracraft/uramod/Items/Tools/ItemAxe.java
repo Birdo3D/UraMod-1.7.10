@@ -1,0 +1,12 @@
+package fr.uracraft.uramod.Items.Tools;
+
+import fr.uracraft.uramod.common.UraMod;
+import net.minecraft.item.Item;
+
+public class ItemAxe extends net.minecraft.item.ItemAxe {
+    public ItemAxe(Item.ToolMaterial material)
+    {
+        super(material);
+        this.setCreativeTab(UraMod.uramodcreativetab);
+    }
+}
